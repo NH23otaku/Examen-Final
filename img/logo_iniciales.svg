@@ -1,0 +1,25 @@
+<svg width="580" height="400" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <defs>
+  <filter height="200%" width="200%" y="-50%" x="-50%" id="svg_10_blur">
+   <feGaussianBlur stdDeviation="1.6" in="SourceGraphic"/>
+  </filter>
+  <filter height="200%" width="200%" y="-50%" x="-50%" id="svg_13_blur">
+   <feGaussianBlur stdDeviation="0" in="SourceGraphic"/>
+  </filter>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <rect stroke="#332D40" transform="rotate(-15 214.50000000000028,199.00000000000003) " filter="url(#svg_10_blur)" rx="87" id="svg_10" height="103.188684" width="258.560586" y="147.405658" x="85.219711" fill-opacity="null" stroke-width="1.5" fill="#fff"/>
+  <text stroke="#332D40" transform="matrix(17.31953031164448,0,0,9.935872333510241,-2940.8875525865187,-1281.5672206341958) " xml:space="preserve" text-anchor="start" font-family="'Palatino Linotype', 'Book Antiqua', Palatino, serif" font-size="7" id="svg_12" y="153.782574" x="176.077383" fill-opacity="null" stroke-width="0" fill="#000000">G J TT</text>
+  <ellipse filter="url(#svg_13_blur)" ry="51.5" rx="192" id="svg_13" cy="222" cx="286" stroke-width="1.5" stroke="#000000" fill="none"/>
+  <rect id="svg_15" height="160" width="397" y="128.5" x="86.5" stroke-width="1.5" stroke="#bf5f00" fill="none"/>
+ </g>
+</svg>
